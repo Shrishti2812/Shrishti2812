@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shrishti Gupta</h1>
 
-<!--
-**Shrishti2812/Shrishti2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Developer | React Enthusiast | Aspiring Full-Stack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 BCA Student
+
+💻 Passionate about building responsive and user-friendly web applications.
+
+🌱 Currently learning **Node.js, Express.js & MongoDB**.
+
+🧩 Solved **400+ DSA problems**.
+
+✨ Always exploring new technologies and building real-world projects.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- JavaScript
+- Java
+- HTML5
+- CSS3
+
+### Frontend
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🌟 Featured Projects
+
+🔹 Portfolio Website
+
+🔹 E-commerce Application
+
+🔹 Routine Planner
+
+🔹 Notes Backend API
+
+---
+
+## 📈 Current Focus
+
+- Building full-stack applications
+- Improving backend development skills
+- Contributing to open source
+- Learning scalable web development
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn:  https://www.linkedin.com/in/shrishti-gupta-584b82373
+- 🌐 Portfolio:  https://portfolio-project-sigma-beryl.vercel.app/
+- 📧 Email: shrishtigupta2812@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
