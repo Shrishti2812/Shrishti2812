@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shrishti Gupta</h1>
+<h1 align="center"> # Shrishti Gupta</h1>
 
-<h3 align="center">Frontend Developer | React Enthusiast | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Frontend Developer | React | Node.js & Express | Full-Stack in Progress</h3>
 
 ---
 
 ## 🚀 About Me
 
-🎓 BCA Student
+🎓 Frontend Developer
 
 💻 Passionate about building responsive and user-friendly web applications.
 
@@ -14,9 +14,9 @@
 
 🧩 Solved **400+ DSA problems**.
 
-✨ Always exploring new technologies and building real-world projects.
+✨ Exploring new technologies and building real-world projects.
 
----
+  ---
 
 ## 🛠 Tech Stack
 
@@ -40,7 +40,7 @@
 - GitHub
 - VS Code
 
----
+  ---
 
 ## 🌟 Featured Projects
 
@@ -50,15 +50,12 @@
 
 🔹 Routine Planner
 
-🔹 Notes Backend API
-
 ---
 
 ## 📈 Current Focus
 
 - Building full-stack applications
 - Improving backend development skills
-- Contributing to open source
 - Learning scalable web development
 
 ---
@@ -71,4 +68,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.* 
